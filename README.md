@@ -26,11 +26,11 @@
 <br>강남구/동작구/서대문구에 착한가격업소가 많이 있다.
 + 식품접객업소 수 대비 착한가격업소 수
 ![image](https://user-images.githubusercontent.com/72624263/186717695-f278fb1d-192e-4150-b5c8-d801b0fb7722.png)
+<br>
 ![image](https://user-images.githubusercontent.com/72624263/186717665-98beceae-e193-4838-923f-5aade3bfd6a5.png)
 ![image](https://user-images.githubusercontent.com/72624263/186717679-c8b319fe-019b-48c0-966d-77d71039727b.png)
 <br>
 상관계수=0.505689로 양의상관을 보이는것으로 보아 식품접객업소가 많은 구에 착한가격업소수도 많다고 할 수 있다.
-<hr>
 + 서울시 착한가격업소와 일반음식점의 별점 분포<br>
 ![image](https://user-images.githubusercontent.com/72624263/186718479-37d28834-c7d1-4a23-ba10-f5eb7309b963.png)
 <br>일반음식점의 분포가 더 높음
@@ -39,7 +39,7 @@
 <br>※ 이때 별점은 별점*별점평가횟수로 보정하여 사용하였다.
 + 일반음식점 키워드리뷰와 별점의 상관계수<br>
 ![image](https://user-images.githubusercontent.com/72624263/186719127-7e062965-84bc-4899-8875-d0533fe28505.png)
-<hr>
+
 + 착한가격업소 현황 상위 3개구 품목별 물가비교<br>
 : 이 부분 그래프 다시 그려서 추가해야함
 + 각 행정구별 가성비 맛집 순위<br>
