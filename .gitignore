@@ -1,0 +1,4 @@
+# data파일 track금지
+*.pptx
+*.ppt
+*.exe
