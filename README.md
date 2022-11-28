@@ -23,7 +23,7 @@
 ## 데이터 시각화 및 분석
 ### 자치구별 착한가격업소 현황                              
 ![image](https://user-images.githubusercontent.com/72624263/186717510-9c9235cb-0c04-4a78-8b34-dcf3d7c1e4ce.png)
-<br>강남구/동작구/서대문구에 착한가격업소가 많이 있다.
+- 강남구/동작구/서대문구에 착한가격업소가 많이 있다.
 
 ### 식품접객업소 수 대비 착한가격업소 수
 ![image](https://user-images.githubusercontent.com/72624263/186717695-f278fb1d-192e-4150-b5c8-d801b0fb7722.png)
